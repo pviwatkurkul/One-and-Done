@@ -102,7 +102,7 @@ My project uses GitHub Actions for Continuous Integration and Deployment. The pi
 
 ## Wiki
 
-- To learn more about my project and its development, take a look at our [wiki](https://github.com/cse110-sp24-group1/cse110-sp24-group1/wiki).
+- To learn more about my project and its development, take a look at our [wiki](https://github.com/pviwatkurkul/One-and-Done/wiki).
 
 ## Final Project Walkthrough
 
