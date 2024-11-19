@@ -8,17 +8,13 @@ Welcome to **One and Done**, a feature-rich journal app built with HTML, CSS, an
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-## Learn More About our [Team](./admin/team.md)!
-
-[![Team Introduction Video](https://img.youtube.com/vi/zUe_q16AtvY/hqdefault.jpg)](http://www.youtube.com/watch?v=zUe_q16AtvY)
-
 ## Project Links
 
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
 
-- We used Github for project management. Our [GitHub Repository](https://github.com/cse110-sp24-group1/cse110-sp24-group1) has our source code, meeting notes, brainstorming information, kanban board, and much more.
-- We are hosting our [website](https://cse110-sp24-group1.github.io/cse110-sp24-group1/src/) with GitHub Pages.
+- I used Github for project management. Our [GitHub Repository](https://github.com/cse110-sp24-group1/cse110-sp24-group1) has our source code, meeting notes, brainstorming information, kanban board, and much more.
+- I'm hosting this [website](https://cse110-sp24-group1.github.io/cse110-sp24-group1/src/) with GitHub Pages.
 
 ## Features
 
@@ -44,7 +40,7 @@ Welcome to **One and Done**, a feature-rich journal app built with HTML, CSS, an
 
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-- We used [SimpleMDE's API](https://simplemde.com/) to implement a markdown editor which includes a tool bar and keyboard shortcuts.
+- I used [SimpleMDE's API](https://simplemde.com/) to implement a markdown editor which includes a tool bar and keyboard shortcuts.
 
   - **Bold**: `Cmd-B`
   - **Italic**: `Cmd-I`
@@ -63,11 +59,11 @@ Welcome to **One and Done**, a feature-rich journal app built with HTML, CSS, an
 
 ![Github Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-Our project uses GitHub Actions for Continuous Integration and Deployment. The pipeline includes:
+My project uses GitHub Actions for Continuous Integration and Deployment. The pipeline includes:
 
 ### JSDoc
 
-- We used JSDoc Actions to generate our [project documentation](https://cse110-sp24-group1.github.io/cse110-sp24-group1/docs/index.html) from JavaScript Comments. 
+- I used JSDoc Actions to generate our [project documentation](https://cse110-sp24-group1.github.io/cse110-sp24-group1/docs/index.html) from JavaScript Comments. 
 
 ### Superlinter
 
@@ -106,7 +102,7 @@ Our project uses GitHub Actions for Continuous Integration and Deployment. The p
 
 ## Wiki
 
-- To learn more about our project and its development, take a look at our [wiki](https://github.com/cse110-sp24-group1/cse110-sp24-group1/wiki).
+- To learn more about my project and its development, take a look at our [wiki](https://github.com/cse110-sp24-group1/cse110-sp24-group1/wiki).
 
 ## Final Project Walkthrough
 
