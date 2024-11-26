@@ -102,7 +102,7 @@ My project uses GitHub Actions for Continuous Integration and Deployment. The pi
 
 ## Wiki
 
-- To learn more about my project and its development, take a look at our [wiki](https://github.com/pviwatkurkul/One-and-Done/wiki).
+- To learn more about my project and its development, take a look at the [wiki](https://github.com/pviwatkurkul/One-and-Done/wiki).
 
 ## Final Project Walkthrough
 
